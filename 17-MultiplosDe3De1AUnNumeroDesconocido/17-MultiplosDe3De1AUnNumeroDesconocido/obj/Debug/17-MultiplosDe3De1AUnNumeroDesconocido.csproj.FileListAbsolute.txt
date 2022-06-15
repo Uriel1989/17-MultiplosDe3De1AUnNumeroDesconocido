@@ -1,0 +1,5 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\17-MultiplosDe3De1AUnNumeroDesconocido\17-MultiplosDe3De1AUnNumeroDesconocido\bin\Debug\17-MultiplosDe3De1AUnNumeroDesconocido.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\17-MultiplosDe3De1AUnNumeroDesconocido\17-MultiplosDe3De1AUnNumeroDesconocido\bin\Debug\17-MultiplosDe3De1AUnNumeroDesconocido.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\17-MultiplosDe3De1AUnNumeroDesconocido\17-MultiplosDe3De1AUnNumeroDesconocido\obj\Debug\17-MultiplosDe3De1AUnNumeroDesconocido.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\17-MultiplosDe3De1AUnNumeroDesconocido\17-MultiplosDe3De1AUnNumeroDesconocido\obj\Debug\17-MultiplosDe3De1AUnNumeroDesconocido.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\17-MultiplosDe3De1AUnNumeroDesconocido\17-MultiplosDe3De1AUnNumeroDesconocido\obj\Debug\17-MultiplosDe3De1AUnNumeroDesconocido.pdb
